@@ -113,3 +113,98 @@ table tr td{
     font-size: 20px;
     padding-top: 0px;
 }
+
+/*------what i am-------*/
+
+.what-i-am{
+    font-weight: 700;
+    font-size: 35px;
+    margin: 60px 400px;
+    text-align: center;
+}
+.what-i-am-info{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;padding-bottom: 59px;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+
+.skill-name{
+    font-weight: 700;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.skill-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    text-align: center;
+
+}
+.skills-comtainer{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.skill-img{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+/*------------resume --------*/
+
+.resume-main{
+    display: flex;
+}
+
+.resume-title{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 105px;
+}
+.education-name-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.institute{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.resume1{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 40px;
+}
+.resume2{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 40px;
+}
+.edu-info{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+.education{
+    margin-right: 71px;
+}
+
+.download.cv{
+    margin-top: 50px;
+    text-align: center;
+}
