@@ -22,7 +22,6 @@ nav{
     display: flex;
     justify-content: space-between;
     margin: 50px 100px 50px 200px;
-    mar
 }
 nav ul{
     display: flex;
@@ -203,8 +202,26 @@ table tr td{
 .education{
     margin-right: 71px;
 }
-
-.download.cv{
+.download-btn{
     margin-top: 50px;
     text-align: center;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 10px;
+}
+.contact{
+    margin-top: 131px;
+    display: flex;
+    background-color: beige;
+    gap: 100px;
+    padding: 130px 200px;
+    background-color: beige;
+}
+.form input[type="text"], input[type="textarea"], textarea{
+    margin-bottom: 12px;
+    width: 100%;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
